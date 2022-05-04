@@ -1,0 +1,5 @@
+[submodule "themes/aditu"]
+	path = themes/aditu
+	url = https://github.com/bergluc/Simon.git
+[submodule ".\\themes\\aditu\\"]
+	url = git@github.com:8ar10der/AdituSample.git
